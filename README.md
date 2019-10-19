@@ -27,4 +27,4 @@ You can simply fork this repository and push your code to it, after you've made 
 
 # Sponsor
 This event was sponsored by [fallen.host](http://v.lngzl.nl/fallen)
-They'll a free VPS to the winners (more information in our Discord server).
+They'll sponsor a free VPS to the winners (more information in our Discord server).
