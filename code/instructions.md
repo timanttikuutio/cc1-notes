@@ -1,2 +1,2 @@
 # Instructions
-How to setup this project so other people can run it?
+Install python 3.6 and run the file from command prompt or terminal
